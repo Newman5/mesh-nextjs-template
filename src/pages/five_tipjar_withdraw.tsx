@@ -4,7 +4,7 @@
 // Instead of using an Aiken script address, we'll use an address generated from the wallet.
 
 import Head from "next/head";
-import { CardanoWallet, useWallet } from "@meshsdk/react";
+import { CardanoWallet, useWallet, MeshProvider } from "@meshsdk/react";
 import { Transaction } from "@meshsdk/core";
 import { useEffect, useState } from "react";
 
