@@ -1,3 +1,8 @@
+# Todo
+add reference links to Mesh and Akin Standard Lib
+
+[notes](notes.md) is where I keep notes and stuff
+
 # Starter Next.js TypeScript
 
 Start a new project on Next.js. This starter template consists of a connect wallet button and wallet integration.
@@ -35,3 +40,4 @@ Give a star on our [GitHub](https://meshjs.dev/go/github) to stay up to date wit
 Follow us on [Twitter](https://meshjs.dev/go/twitter) for updates.
 
 Join our [Discord](https://meshjs.dev/go/discord) for any questions and suggestions.
+

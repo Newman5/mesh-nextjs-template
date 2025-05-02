@@ -1,0 +1,8 @@
+# Notes
+
+TipJar wallet address -
+addr_test1qrnen5pw7yatfz5s95kn8pdfrx97v6z4leymzaahllde8zcn08geeynhynw2j3udpef5ryep0crcx6acmek7769ttsxsq5t2ah
+
+PreProd wallet address - 
+addr_test1qz3fm7r7fm3pz93efpp2ywsc8gj8dtspngl79976avyfw7y285tclhaz2skj63p67ulnelhftnr2deyftlq480rxhtasvg24xz
+
