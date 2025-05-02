@@ -5,7 +5,7 @@ export function getWalletForYaci() {
   const blockchainProvider = getYaciProvider();
 
   return new MeshWallet({
-    networkId: 0, // Replace with the correct network ID
+    networkId: 2, // Replace with the correct network ID
     fetcher: blockchainProvider,
     submitter: blockchainProvider,
     key: {

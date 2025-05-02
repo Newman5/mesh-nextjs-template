@@ -41,3 +41,6 @@ Follow us on [Twitter](https://meshjs.dev/go/twitter) for updates.
 
 Join our [Discord](https://meshjs.dev/go/discord) for any questions and suggestions.
 
+## Start and stop the Yaci
+Start - devkit start -> create-node -o -e 30 --start
+Stop - exit -> exit -> devkit stop
